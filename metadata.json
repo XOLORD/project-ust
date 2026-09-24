@@ -1,0 +1,6 @@
+{
+  "name": "Equilibria Colombia - Punto de Equilibrio y Estacionalidad",
+  "description": "Simulador financiero e industrial de punto de equilibrio, márgenes y estacionalidad comercial por regiones y festividades de Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
